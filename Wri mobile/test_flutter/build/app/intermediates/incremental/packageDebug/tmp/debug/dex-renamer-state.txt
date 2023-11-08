@@ -1,0 +1,4 @@
+#Mon Nov 06 21:21:26 WIB 2023
+base.0=D\:\\codes\\Wri mobile\\test_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
